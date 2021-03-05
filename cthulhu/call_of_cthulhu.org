@@ -1,19 +1,25 @@
 #+TITLE: Call Character: Oskar Magnarsson
 
 * stats
- str 45
- siz 65
- dex 35
- app 40
- con 55
- int 90
- edu 75
- pow 70
- luck 55
+ str 45,
+ siz 65,
+ dex 35,
+ app 40,
+ con 55,
+ int 90,
+ edu 75,
+ pow 70,
+ luck 55,
 
-
-Occupation: Archeaologist[Lovecraftian] 95 Personal
-Credit rating 50
+* Background
+  Occupation: Archeaologist[Lovecraftian]
+  Credit rating 50
+  Studied at Lund university
+  Studied botany
+  Is currently doing research with a fellow professor, She is a Pharmacy professor and we are combining knowledge to find interesting and useful plants with medicinal properties
+  - Living brother works as an archaelogist in russia
+  - 2 living parents 
+  - seen none too often because of work but in fairly close contact via letter
 * Skills
  - History 05
  - Own Language (Eng) 70
