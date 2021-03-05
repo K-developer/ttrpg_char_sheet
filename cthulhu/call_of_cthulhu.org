@@ -17,12 +17,14 @@
   Occupation: Archeaologist[Lovecraftian]\\
   Credit rating 50
   Studied at Lund university
+  Currently works at Stockholm university <Key>
   Studied botany
   Is currently doing research with a fellow professor, She is a Pharmacy professor, 
   we are combining knowledge to find interesting and useful plants with medicinal properties:
   - Living brother works as an archaelogist in russia
   - 2 living parents 
   - seen none too often because of work but in fairly close contact via letter
+  - One of His favourite places to be is a beach in the north east of sweden
 * Skills
  - History 05
  - Own Language (Eng) 70
@@ -31,7 +33,30 @@
  - Medicine 55
  - Botany 90
  - Pharmacy 01
-
  - Guns (shotgun/rifles) 60
  - Fine art 70
- - Mechanical repair 50
+ - First Aid 50
+
+* Wealth, assets and equipment
+Level: Wealthy
+£250 cash per week
+£50 per day
+£25000 total
+
+Town house £7000
+Household stuff £3000
+
+Pierce arrow 1921 $6000
+Winchester Rifle M1895
+Winchester M1887 shotgun
+Compass with lid
+Medical Stuff £300
+16x24 Tent £53
+
+
+* Players
+ - Avril - Madeline
+ - Ben - Francis Lyell
+ - Brett - John Welling
+ - Chris - Henry Arden
+ - Jenna - Athena "Thea"
