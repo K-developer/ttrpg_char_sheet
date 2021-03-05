@@ -1,0 +1,33 @@
+#+TITLE: Duskvol Char
+Name: Ludoviscus (Testa)
+Class: Leech
+Heritage: Dagger Isles
+Background: Leviathan hunter
+Vice: Pleasure (Gratification from Lover)
+Special Ability: Artificer
+
+Vice Purveyor: Madame Tesslyn
+
+Friend: Stazia, Apothecary
+Enemy: Eckerd, Corpse Thief
+
+
+Looks: Heavy Cloak, Tall Boots, Handsome, Scarred
+
+
+Skills
+
+Hunt
+Study 2
+Survey
+Tinker 2
+
+Finesse
+Prowl
+Skirmish
+Wreck 2
+
+Attune
+Command
+Consort
+Sway 1

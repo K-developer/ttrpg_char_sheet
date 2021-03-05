@@ -1,0 +1,28 @@
+#+TITLE: Call Character
+
+* stats
+str 45
+siz 65
+dex 35
+app 40
+con 55
+int 90
+edu 75
+pow 70
+luck 55
+
+
+Occupation: Archeaologist[Lovecraftian] 95 Personal
+Credit rating 50
+* Skills
+History 05
+Own Language (Eng) 70
+Library  Use 31
+Spot  Hidden 55
+Medicine 55
+Botany 90
+Pharmacy 01
+
+Guns (shotgun/rifles) 60
+Fine art 70
+Mechanical repair 50

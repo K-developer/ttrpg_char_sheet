@@ -1,0 +1,80 @@
+============================================
+=          Vampire the masquerade          =
+============================================
+HP: 6
+Will: 4
+Blood Potency: 2
+
+* Details
+Clan: Hacate
+Generation: 11
+Predator: Grave drawn
+Ambition: Find an appropriate spawn
+Humanity: 6
+Hunger: 3
+Desires: Kill someone harming the weak
+* Stats
+** Physical
+Strength 2
+Dexterity 3
+Stamina 2
+** social
+Charisma 4
+Manipulation 1
+Composure 3
+** mental
+Intelligence 3
+Wits 2
+Resolve 2
+
+
+* Skills
+Firearms 2
+Stealth 4
+Persuasion 3
+Subterfuge 3
+Ettiquette 1
+Occult 2 (+1 grave rituals)
+Technology 3
+Intimidation 2
+Brawl 2
+
+* Disciplines
+** Obfuscate
+*** 1
+Cloak of shadows
+** Oblivion 5
+*** 1
+ Ashes to ashes
+ Shadow Cloak
+ Oblivion Sight
+*** 2
+Shadow cast
+*** 3
+Touch of oblivion
+*** 4
+Stygian Shroud
+*** 5
+Tenebrous Avatar
+* Advantages
+ Resources (3)
+ Contacts 3 (Gabriella)
+ Loresheet (Kevin Jackson) 3
+ Enemies 2
+ Haven 3 ( Luxury )
+ Haven 3 (van burrace)
+ Influence 3
+ Retainers 2
+ Mawla 5 Rebekah
+ Contacts 3 Bronwyn (Malkavian)
+ Contacts 3 Siera
+ Contacts 3 Alexa santos (Hound of Violence)
+
+* Flaws
+Feeding prey exclusion (Children)
+Feeding prey exclusion ( people who have not known death before  )
+
+* Notes
+Lasombra pass Loadin
+Portia (hates lasombra)
+Jacob (nomad)
