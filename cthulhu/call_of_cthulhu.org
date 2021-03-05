@@ -1,6 +1,7 @@
 #+TITLE: Call Character: Oskar Magnarsson
+#+OPTIONS: \n:t
 
-* stats
+* Stats
  str 45,
  siz 65,
  dex 35,
