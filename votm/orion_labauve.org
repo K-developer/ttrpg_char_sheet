@@ -2,7 +2,7 @@
 =          Vampire the masquerade          =
 ============================================
 HP: 6
-Will: 4
+Will: 5/5
 Blood Potency: 2
 
 * Details
@@ -78,3 +78,8 @@ Feeding prey exclusion ( people who have not known death before  )
 Lasombra pass Loadin
 Portia (hates lasombra)
 Jacob (nomad)
+
+
+* Gear
+ - 12 gauge +3
+ - 9mm +2
