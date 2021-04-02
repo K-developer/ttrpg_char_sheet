@@ -4,6 +4,8 @@
 HP: 6
 Will: 5/5
 Blood Potency: 2
+exp 5
+
 
 * Details
 Clan: Hacate

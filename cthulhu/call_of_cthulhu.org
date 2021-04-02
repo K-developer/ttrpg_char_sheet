@@ -11,6 +11,7 @@
 | Education    |    75 |
 | Power        |    70 |
 | Luck         |    55 |
+| Move         |     7 |
 
 
 * Background
@@ -29,8 +30,8 @@
  - Own Language (Swe) 75
  - Language (Eng) 70
  - Library  Use 31
- - Spot  Hidden 55
- - Medicine 55
+ - Spot  Hidden 55 *
+ - Medicine 55 *
  - Botany 90
  - Pharmacy 50
  - Guns (shotgun/rifles) 60
@@ -54,9 +55,22 @@ Medical Stuff £300
 16x24 Tent £53
 
 
+
 * Players
  - Avril - Madeline
  - Ben - Francis Lyell
  - Brett - John Welling
  - Chris - Henry Arden
  - Jenna - Athena "Thea"
+
+* Notes
+- larkan heroin withdrawls
+- sun going black tentacles reaching across sky
+- painting feverishly
+- red rock hot to touch
+- white fatty tentacles bursting from pyramids with maggots
+- discovered by gaspar figeroa
+- Mummified corpse with circular cut in chest [[file:pictures/woman_corpse.jpeg][Womans Corpse]]
+- Long Gold bar with 2 curved pieces and one abr through with text across its length  [[./pictures/gold_sign.jpeg][Long Gold Sign]]
+  - Caraciri [[./pictures/caraciri.jpeg][Caraciri << Leech monster >>]]
+  -
