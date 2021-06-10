@@ -1,5 +1,7 @@
 #+TITLE: Call Character: Oskar Magnarsson
-
+Sanity: 69
+age: 35
+HP: 11
 * Stats
 | Name         | Level |
 | Strength     |    45 |
@@ -15,7 +17,7 @@
 
 
 * Background
-  Occupation: Archeaologist[Lovecraftian]\\
+  Occupation: Professor[Lovecraftian]\\
   Credit rating 50
   Studied at Lund university
   Currently works at Stockholm university <Key>
@@ -28,21 +30,25 @@
   - One of His favourite places to be is a beach in the north east of sweden
 * Skills
  - Own Language (Swe) 75
- - Language (Eng) 70
+ - Language (Eng) 70 *
  - Library  Use 31
- - Spot  Hidden 55 *
- - Medicine 55 *
+ - Spot  Hidden 64 *
+ - Medicine 59 *
  - Botany 90
  - Pharmacy 50
- - Guns (shotgun/rifles) 60
+ - Guns (shotgun/rifles) 60 *
  - Fine art 70
  - First Aid 50
+ - listen 23
+ - Natural world 11
+ - Occult 22
+ - Mythos 1
 
 * Wealth, assets and equipment
 Level: Wealthy
 £250 cash per week
 £50 per day
-£25000 total
+£50000 total
 
 Town house £7000
 Household stuff £3000
@@ -57,12 +63,9 @@ Medical Stuff £300
 
 
 * Players
- - Avril - Madeline
+ - Farmer - Tony
  - Ben - Francis Lyell
- - Brett - John Welling
- - Chris - Henry Arden
- - Jenna - Athena "Thea"
-
+ - Thorne - Gwen
 * Notes
 - larkan heroin withdrawls
 - sun going black tentacles reaching across sky
@@ -73,4 +76,5 @@ Medical Stuff £300
 - Mummified corpse with circular cut in chest [[file:pictures/woman_corpse.jpeg][Womans Corpse]]
 - Long Gold bar with 2 curved pieces and one abr through with text across its length  [[./pictures/gold_sign.jpeg][Long Gold Sign]]
   - Caraciri [[./pictures/caraciri.jpeg][Caraciri << Leech monster >>]]
-  -
+- pedro del felasco
+- narcissa

@@ -1,11 +1,10 @@
 ============================================
 =          Vampire the masquerade          =
 ============================================
-HP: 6
-Will: 5/5
+HP: 9
+Will: 4/5
 Blood Potency: 2
-exp 5
-
+exp: 0
 
 * Details
 Clan: Hacate
@@ -13,7 +12,7 @@ Generation: 11
 Predator: Grave drawn
 Ambition: Find an appropriate spawn
 Humanity: 6
-Hunger: 3
+Hunger: 1
 Desires: Kill someone harming the weak
 * Stats
 ** Physical
@@ -50,6 +49,7 @@ Cloak of shadows
  Ashes to ashes
  Shadow Cloak
  Oblivion Sight
+ The binding fetter
 *** 2
 Shadow cast
 *** 3
@@ -58,6 +58,13 @@ Touch of oblivion
 Stygian Shroud
 *** 5
 Tenebrous Avatar
+** Fortitude 3
+*** 1
+Unswayable Mind
+*** 2
+Toughness
+*** 3
+Fortify the inner facade
 * Advantages
  Resources (3)
  Contacts 3 (Gabriella)
@@ -67,7 +74,7 @@ Tenebrous Avatar
  Haven 3 (van burrace)
  Influence 3
  Retainers 2
- Mawla 5 Rebekah
+ Mawla 5 Rebekah silubri?
  Contacts 3 Bronwyn (Malkavian)
  Contacts 3 Siera
  Contacts 3 Alexa santos (Hound of Violence)
@@ -85,3 +92,33 @@ Jacob (nomad)
 * Gear
  - 12 gauge +3
  - 9mm +2
+* notes
+Queen anne Ventrue
+Regina blake  (elisium) Toreador
+valerius (Sire to queen and current senechal) Ventrue
+Scarlet Churchill
+kythas smith (vamp hunter nearly on par with dane)
+Montie coven (diablerised mithras)
+Nefer meri-isis ventrue childe of ventrue
+Cretheus ventrue childe of mithras
+Can eat and drink (high humanity)
+nefer (vamp 3rd eye)
+Antideluvian Set
+methuselah
+    horus
+cretheus and nefer-meri-isis
+*** Mithras Key items
+    ring of mithras (from goddess to god, cursed and blessed forever) sri sansa
+    phrygian cap gwenllian arwyn patyr
+    mithras seal
+    egyptian dagger
+        Bronze
+        Handle ivory
+        thin handle
+        wide / straight blade
+        gift from horus the avenger
+        used in cults for centuries for bull slaying
+    ceramic goblet
+        held his blood in ritual
+        has inscriptions of his stories
+
