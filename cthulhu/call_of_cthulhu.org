@@ -1,13 +1,14 @@
-#+TITLE: Call Character: Oskar Magnarsson
-Sanity: 69
-age: 35
-HP: 11
+#+TITLE: Call Character: Oskar Magnarsson << Bernard Fitzroy >>
+Sanity: 57
+age: 40
+HP: 11/11
+Obsession: Nitocris
 * Stats
 | Name         | Level |
-| Strength     |    45 |
+| Strength     |    40 |
 | Size         |    65 |
 | Dex          |    35 |
-| Appearance   |    40 |
+| Appearance   |    35 |
 | Constitution |    55 |
 | Intelligence |    90 |
 | Education    |    75 |
@@ -28,27 +29,32 @@ HP: 11
   - 2 living parents 
   - seen none too often because of work but in fairly close contact via letter
   - One of His favourite places to be is a beach in the north east of sweden
+** corruption
+the book speaks to me and I must obey Sélections de Livre D’Ivon
 * Skills
  - Own Language (Swe) 75
- - Language (Eng) 70 *
+ - Language (Eng) 75
  - Library  Use 31
- - Spot  Hidden 64 *
- - Medicine 59 *
+ - Spot  Hidden 81
+ - Psychology 13
+ - Medicine 59
  - Botany 90
  - Pharmacy 50
- - Guns (shotgun/rifles) 60 *
+ - Guns (shotgun/rifles) 69
  - Fine art 70
  - First Aid 50
  - listen 23
  - Natural world 11
- - Occult 22
- - Mythos 1
+ - Occult 89
+ - Mythos 24
+ - Fast talk 8
+ - Persuade 10 *
 
 * Wealth, assets and equipment
 Level: Wealthy
 £250 cash per week
 £50 per day
-£50000 total
+£47400 total
 
 Town house £7000
 Household stuff £3000
@@ -78,3 +84,72 @@ Medical Stuff £300
   - Caraciri [[./pictures/caraciri.jpeg][Caraciri << Leech monster >>]]
 - pedro del felasco
 - narcissa
+
+* Eldritch Gear
+Knife of dark young
+Greek: Treat with Sky Devil of Typhon (Summon Byakhee)
+Egyptian hieroglyphs: Call Messenger of Apep (Summon
+Hunting Horror)
+Arabic: Compel Nasnas (Bind Dimensional Shambler) << Farmer has this >>
+Arabic: Atarsamain’s Bane (Dread Curse of Azathoth)
+Arabic: Whispers of Shaitan* (Send Dream)
+
+140 magus
+80 book of law
+150 dictionaire infernal
+100 shamans medicine bag
+ 1100 cash
+ Bag of african art & artefacts (kenya)
+
+
+ Australian
+ Red hair
+ short
+ old style
+ dresses
+ americanised accent
+
+ beard
+ booming
+ gestures
+ anthropology miskatonic university
+ sydney
+ cults of darkness
+ never met jackson elias
+ new zealand
+ polynesia
+ cult of the bloody tongue - kenya - God
+
+ kensington notes
+ ramsey will
+ Nichonka Bunay
+ sand bat
+ Cthulhu
+ mukunga m'dari
+ wr 14
+ Painting from Mr miles shipley
+george osgood
+lydia perkins
+Const hubert tumwell
+john pitchlock teller
+alice pitchlock
+arthur vane
+plum castle
+miser house
+essex
+Bentley sabotaged with wire removed
+Gregory munden's wallet with warrent card
+arabic occult book
+alien plants
+crowbar
+hotel de sud
+ circlet zircon#
+ bust of bPH
+ drum
+ancient scroll
+    hidden room in un-named pyramid to bPH
+ nuri
+ iben t'lunn
+ sneferu
+ nitocris last pharoah of 6th dyn
+ bPH 3rd dynasty
