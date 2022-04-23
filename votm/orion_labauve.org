@@ -16,15 +16,15 @@ Hunger: 0
 Desires: Kill someone harming the weak
 * Stats
 ** Physical
-Strength 2
+iStrength 4
 Dexterity 3
-Stamina 2
+Stamina 3
 ** social
-Charisma 4
+Charisma 3
 Manipulation 1
-Composure 3
+Composure 2
 ** mental
-Intelligence 3
+Intelligence 2
 Wits 2
 Resolve 2
 
@@ -41,48 +41,36 @@ Intimidation 2
 Brawl 2
 
 * Disciplines
-** Obfuscate
+** potence 4
 *** 1
-Cloak of shadows
-** 0blivion 5
-*** 1
- Ashes to ashes
- Shadow Cloak
- Oblivion Sight
- The binding fetter
+soaring leap
+lethal body
 *** 2
-Shadow cast
+prowess
 *** 3
-Touch of oblivion
-*** 4
-Stygian Shroud
-*** 5
-Tenebrous Avatar
-** Fortitude 3
+uncanny grip
+** Celerity 4
+*** 1
+ cats grace
+ rapid reflex's
+*** 2
+blink
+*** 3
+Traversal
+** Fortitude 1
 *** 1
 Unswayable Mind
+** Presence 2
+*** 1
+awe
 *** 2
-Toughness
-*** 3
-Fortify the inner facade
+Lingering Kissinger
+
 * Advantages
- Resources (3)
- Contacts 3 (Gabriella)
- Loresheet (Kevin Jackson) 3
- Enemies 2
- Haven 3 ( Luxury )
- Haven 3 (van burrace)
- Influence 3
- Retainers 2
- Mawla 5 Rebekah silubri?
- Contacts 3 Bronwyn (Malkavian)
- Contacts 3 Siera
- Contacts 3 Alexa santos (Hound of Violence)
 
 * Flaws
-Feeding prey exclusion (Children)
-Feeding prey exclusion ( people who have not known death before  )
-
+methuselah's thirst
+feeding exclusion
 * Notes
 Lasombra pass Loadin
 Portia (hates lasombra)
