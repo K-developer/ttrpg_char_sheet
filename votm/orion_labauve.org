@@ -4,10 +4,10 @@
 HP: 9
 Will: 4/5
 Blood Potency: 2
-exp: 6
+exp: 3
 
 * Details
-Clan: Hacate
+Clan: Brujah
 Generation: 11
 Predator: Grave drawn
 Ambition: Find an appropriate spawn
@@ -16,7 +16,7 @@ Hunger: 0
 Desires: Kill someone harming the weak
 * Stats
 ** Physical
-iStrength 4
+Strength 4
 Dexterity 3
 Stamina 3
 ** social
@@ -49,13 +49,15 @@ lethal body
 prowess
 *** 3
 uncanny grip
-** Celerity 4
+** Celerity 5
 *** 1
  cats grace
  rapid reflex's
 *** 2
 blink
 *** 3
+*** 5
+  Lightning strike
 Traversal
 ** Fortitude 1
 *** 1
