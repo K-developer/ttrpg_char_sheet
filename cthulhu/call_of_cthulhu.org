@@ -1,7 +1,8 @@
 #+TITLE: Call Character: Oskar Magnarsson << Bernard Fitzroy >>
-Sanity: 57
+Sanity: 51
 age: 40
 HP: 11/11
+MP 7/14
 Obsession: Nitocris
 * Stats
 | Name         | Level |
@@ -35,20 +36,21 @@ the book speaks to me and I must obey Sélections de Livre D’Ivon
  - Own Language (Swe) 75
  - Language (Eng) 75
  - Library  Use 31
- - Spot  Hidden 81
+ - Spot Hidden 81
  - Psychology 13
  - Medicine 59
  - Botany 90
  - Pharmacy 50
- - Guns (shotgun/rifles) 69
+ - Guns (shotgun/rifles) 69 *
  - Fine art 70
  - First Aid 50
  - listen 23
  - Natural world 11
  - Occult 89
- - Mythos 24
+ - Mythos 24 *
  - Fast talk 8
  - Persuade 10 *
+ - Brawl 25 *
 
 * Wealth, assets and equipment
 Level: Wealthy
@@ -65,6 +67,7 @@ Winchester M1887 shotgun
 Compass with lid
 Medical Stuff £300
 16x24 Tent £53
+Magic torch of cthuga
 
 
 
