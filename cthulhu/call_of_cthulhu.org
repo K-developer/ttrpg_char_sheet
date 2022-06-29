@@ -1,159 +1,68 @@
-#+TITLE: Call Character: Oskar Magnarsson << Bernard Fitzroy >>
-Sanity: 51
-age: 40
+#+TITLE: Call Character: Piotr Wozniak << Slippery jack aka slippy >>
+Sanity: 38
+age: 20
 HP: 11/11
-MP 7/14
-Obsession: Nitocris
+MP 10/10
 * Stats
 | Name         | Level |
-| Strength     |    40 |
-| Size         |    65 |
-| Dex          |    35 |
-| Appearance   |    35 |
-| Constitution |    55 |
-| Intelligence |    90 |
-| Education    |    75 |
-| Power        |    70 |
-| Luck         |    55 |
-| Move         |     7 |
+| Strength     |    55 |
+| Size         |    45 |
+| Dex          |    70 |
+| Appearance   |    55 |
+| Constitution |    45 |
+| Intelligence |    55 |
+| Education    |    62 |
+| Power        |    60 |
+| Luck         |    65 |
+| Move         |       |
 
 
 * Background
-  Occupation: Professor[Lovecraftian]\\
-  Credit rating 50
-  Studied at Lund university
-  Currently works at Stockholm university <Key>
-  Studied botany
-  Is currently doing research with a fellow professor, She is a Pharmacy professor, 
-  we are combining knowledge to find interesting and useful plants with medicinal properties:
-  - Living brother works as an archaelogist in russia
-  - 2 living parents 
-  - seen none too often because of work but in fairly close contact via letter
-  - One of His favourite places to be is a beach in the north east of sweden
-** corruption
-the book speaks to me and I must obey Sélections de Livre D’Ivon
+    Saw a dead body as a kid, Lied to get in to the military Joined the military to escape the town saw war got more fucked up during ww1
+
 * Skills
- - Own Language (Swe) 75
- - Language (Eng) 75
- - Library  Use 31
- - Spot Hidden 81
- - Psychology 13
- - Medicine 59
- - Botany 90
- - Pharmacy 50
- - Guns (shotgun/rifles) 69 *
- - Fine art 70
- - First Aid 50
- - listen 23
- - Natural world 11
- - Occult 89
- - Mythos 24 *
- - Fast talk 8
- - Persuade 10 *
- - Brawl 25 *
+
+- Mechanical Repair 60
+- Spot hidden 60
+- Stealth 90
+- Brawl 80
+- English 60
+- Dodge 65
+- Credit Rating 30
+- Demolitions 70
+- Intimidate 55
+- Sleight of hand 60
+- Operate heavy Machinery 60
+- Flamethrower 45
+
 
 * Wealth, assets and equipment
-Level: Wealthy
-£250 cash per week
-£50 per day
-£47400 total
-
-Town house £7000
-Household stuff £3000
-
-Pierce arrow 1921 $6000
-Winchester Rifle M1895
-Winchester M1887 shotgun
-Compass with lid
-Medical Stuff £300
-16x24 Tent £53
-Magic torch of cthuga
-
-
+pliers
+torch
+knife
+cheese
 
 * Players
- - Farmer - Tony
- - Ben - Francis Lyell
- - Thorne - Gwen
+Naomi hammermeister Nurse widow of my dead fellow solider
+Ascher Myrrh - friend lives with me
+Charlie Orderly I brawl with (like him because hes a fun fight)
 * Notes
-- larkan heroin withdrawls
-- sun going black tentacles reaching across sky
-- painting feverishly
-- red rock hot to touch
-- white fatty tentacles bursting from pyramids with maggots
-- discovered by gaspar figeroa
-- Mummified corpse with circular cut in chest [[file:pictures/woman_corpse.jpeg][Womans Corpse]]
-- Long Gold bar with 2 curved pieces and one abr through with text across its length  [[./pictures/gold_sign.jpeg][Long Gold Sign]]
-  - Caraciri [[./pictures/caraciri.jpeg][Caraciri << Leech monster >>]]
-- pedro del felasco
-- narcissa
+Tool Outfit (20 Tools) . . . . . . . . . . . . . . . . $14.90
+Hand Drill (Plus 8 Bits) . . . . . . . . . . . . . . . $6.15
+Large Steel Pulley. . . . . . . . . . . . . . . . . . . . . $1.75
+Padlock . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95¢
+Rope (50 Feet) . . . . . . . . . . . . . . . . . . . . . . . $8.60
+Light Chain (per Foot) . . . . . . . . . . . . . . . . 10¢
+Watchmaker’s Tool Kit . . . . . . . . . . . . . . . . $7.74
+Crowbar . . . . . . . . . . . . . . . . . . . . . . . . . . . . $2.25
+Handsaw . . . . . . . . . . . . . . . . . . . . . . . . . . . . $1.65
+Gasoline Blowtorch . . . . . . . . . . . . . . . . . . . $4.45
+Electricians Gloves . . . . . . . . . . . . . . . . . . . $1.98
+Lineman's Tool Belt & Safety Strap . . . . . . $3.33
+Lineman's Climbers . . . . . . . . . . . . . . . . . . $2.52
+Jewelers 48-Piece Tool Set. . . . . . . . . . . . . . $15.98
+Rotary Tool Grinder . . . . . . . . . . . . . . . . . . $6.90
+Shovel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95¢
+Home Tool Set in Box . . . . . . . . . . . . . . . . . $14.90
 
 * Eldritch Gear
-Knife of dark young
-Greek: Treat with Sky Devil of Typhon (Summon Byakhee)
-Egyptian hieroglyphs: Call Messenger of Apep (Summon
-Hunting Horror)
-Arabic: Compel Nasnas (Bind Dimensional Shambler) << Farmer has this >>
-Arabic: Atarsamain’s Bane (Dread Curse of Azathoth)
-Arabic: Whispers of Shaitan* (Send Dream)
-
-140 magus
-80 book of law
-150 dictionaire infernal
-100 shamans medicine bag
- 1100 cash
- Bag of african art & artefacts (kenya)
-
-
- Australian
- Red hair
- short
- old style
- dresses
- americanised accent
-
- beard
- booming
- gestures
- anthropology miskatonic university
- sydney
- cults of darkness
- never met jackson elias
- new zealand
- polynesia
- cult of the bloody tongue - kenya - God
-
- kensington notes
- ramsey will
- Nichonka Bunay
- sand bat
- Cthulhu
- mukunga m'dari
- wr 14
- Painting from Mr miles shipley
-george osgood
-lydia perkins
-Const hubert tumwell
-john pitchlock teller
-alice pitchlock
-arthur vane
-plum castle
-miser house
-essex
-Bentley sabotaged with wire removed
-Gregory munden's wallet with warrent card
-arabic occult book
-alien plants
-crowbar
-hotel de sud
- circlet zircon#
- bust of bPH
- drum
-ancient scroll
-    hidden room in un-named pyramid to bPH
- nuri
- iben t'lunn
- sneferu
- nitocris last pharoah of 6th dyn
- bPH 3rd dynasty
-    "sharifa has sent me"

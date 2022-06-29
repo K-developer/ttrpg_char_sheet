@@ -4,7 +4,7 @@
 HP: 9
 Will: 4/5
 Blood Potency: 2
-exp: 3
+exp: 10
 
 * Details
 Clan: Brujah
@@ -24,15 +24,15 @@ Charisma 3
 Manipulation 1
 Composure 2
 ** mental
-Intelligence 2
+Intelligence 3
 Wits 2
 Resolve 2
 
 
 * Skills
 Firearms 2
-Stealth 4
-Persuasion 3
+Melee (+1 Swords) 4
+Athletics 3
 Subterfuge 3
 Ettuette 1
 Occult 2 (+1 grave rituals)
@@ -51,28 +51,32 @@ prowess
 uncanny grip
 ** Celerity 5
 *** 1
- cats grace
- rapid reflex's
+  cats grace
+  rapid reflex's
 *** 2
-blink
+  blink
 *** 3
+  Traversal
 *** 5
   Lightning strike
-Traversal
 ** Fortitude 1
 *** 1
 Unswayable Mind
-** Presence 2
+** Presence 3
 *** 1
 awe
 *** 2
-Lingering Kissinger
+Lingering Kiss
+*** 3
+Entrancement
 
 * Advantages
+stunning
 
 * Flaws
 methuselah's thirst
 feeding exclusion
+
 * Notes
 Lasombra pass Loadin
 Portia (hates lasombra)
@@ -83,6 +87,8 @@ Jacob (nomad)
  - 12 gauge +3
  - 9mm +2
 * notes
+azaezal
+jesamine tremont
 Queen anne Ventrue
 Regina blake  (elisium) Toreador
 valerius (Sire to queen and current senechal) Ventrue
@@ -114,4 +120,16 @@ cretheus and nefer-meri-isis
     ceramic goblet
         held his blood in ritual
         has inscriptions of his stories
-
+* bets
+** duration
+    ben 0-2 seconds
+    me 2-30
+    thorne 30-60 seconds
+** resistance
+    ben eq vamp
+    thorne resistance to vamp but not immune
+    me human lvl
+** rematch
+    ben he does she doesn't
+    thorne both do
+    me neither do
