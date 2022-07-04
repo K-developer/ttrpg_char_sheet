@@ -3,6 +3,7 @@ Sanity: 38
 age: 20
 HP: 11/11
 MP 10/10
+Luck 45/65 
 * Stats
 | Name         | Level |
 | Strength     |    55 |
@@ -23,8 +24,8 @@ MP 10/10
 * Skills
 
 - Mechanical Repair 60
-- Spot hidden 60
-- Stealth 90
+- Spot hidden 60 *
+- Stealth 90 *
 - Brawl 80
 - English 60
 - Dodge 65
@@ -34,6 +35,7 @@ MP 10/10
 - Sleight of hand 60
 - Operate heavy Machinery 60
 - Flamethrower 45
+- Listen 20 *
 
 
 * Wealth, assets and equipment
