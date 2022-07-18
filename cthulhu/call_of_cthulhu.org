@@ -1,9 +1,10 @@
 #+TITLE: Call Character: Piotr Wozniak << Slippery jack aka slippy >>
-Sanity: 38
+Sanity: 60 (7)
 age: 20
-HP: 11/11
+HP: 9/11
 MP 10/10
-Luck 45/65 
+Luck 39/65 
+Money: 40,000
 * Stats
 | Name         | Level |
 | Strength     |    55 |
@@ -26,7 +27,7 @@ Luck 45/65
 - Mechanical Repair 60
 - Spot hidden 60 *
 - Stealth 90 *
-- Brawl 80
+- Brawl 80 *
 - English 60
 - Dodge 65
 - Credit Rating 30
@@ -43,6 +44,7 @@ pliers
 torch
 knife
 cheese
+All tools
 
 * Players
 Naomi hammermeister Nurse widow of my dead fellow solider

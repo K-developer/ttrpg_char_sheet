@@ -1,7 +1,7 @@
 ============================================
 =          Vampire the masquerade          =
 ============================================
-HP: 9
+HP: 8/9
 Will: 4/5
 Blood Potency: 2
 exp: 10
@@ -9,7 +9,7 @@ exp: 10
 * Details
 Clan: Brujah
 Generation: 11
-Predator: Grave drawn
+Predator: Scene queen
 Ambition: Find an appropriate spawn
 Humanity: 6
 Hunger: 0
@@ -120,6 +120,8 @@ cretheus and nefer-meri-isis
     ceramic goblet
         held his blood in ritual
         has inscriptions of his stories
+      ophilia merit
+      roger camden
 * bets
 ** duration
     ben 0-2 seconds
