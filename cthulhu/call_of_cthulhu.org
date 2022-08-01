@@ -1,9 +1,9 @@
 #+TITLE: Call Character: Piotr Wozniak << Slippery jack aka slippy >>
-Sanity: 60 (7)
+Sanity: 56 (7)
 age: 20
 HP: 9/11
 MP 10/10
-Luck 39/65 
+Luck 65/65 
 Money: 40,000
 * Stats
 | Name         | Level |
@@ -16,7 +16,7 @@ Money: 40,000
 | Education    |    62 |
 | Power        |    60 |
 | Luck         |    65 |
-| Move         |       |
+| Move         |     7 |
 
 
 * Background
@@ -25,9 +25,9 @@ Money: 40,000
 * Skills
 
 - Mechanical Repair 60
-- Spot hidden 60 *
-- Stealth 90 *
-- Brawl 80 *
+- Spot hidden 60 
+- Stealth 90 
+- Brawl 84
 - English 60
 - Dodge 65
 - Credit Rating 30
