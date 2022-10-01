@@ -1,9 +1,9 @@
 #+TITLE: Call Character: Piotr Wozniak << Slippery jack aka slippy >>
-Sanity: 43
-age: 20
+Sanity: 45
+age: 24
 HP: 9/11
 MP 10/10
-Luck 65/65 
+Luck 42/65 
 Money: 40,000
 * Stats
 | Name         | Level |
@@ -25,18 +25,18 @@ Money: 40,000
 * Skills
 
 - Mechanical Repair 60
-- Spot hidden 60 *
-- Stealth 90 *
+- Spot hidden 60 
+- Stealth 90 
 - Brawl 84
 - English 60
 - Dodge 65
-- Credit Rating 30
+- Credit Rating 35
 - Demolitions 70
 - Intimidate 55
 - Sleight of hand 60
 - Operate heavy Machinery 60
 - Flamethrower 45
-- Listen 20 *
+- Listen 29 
 
 
 * Wealth, assets and equipment
@@ -70,3 +70,6 @@ Shovel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 95¢
 Home Tool Set in Box . . . . . . . . . . . . . . . . . $14.90
 
 * Eldritch Gear
+* Insanities
+    Jorg >> ben
+    Naomi and Ascher are Ascher

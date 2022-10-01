@@ -1,0 +1,94 @@
+#+TITLE: Call Character: Marcel Dubois
+Sanity: 75
+age: 27
+HP: 8/9
+MP 10/10
+Luck 41/70 
+Money: 40,000
+* Stats
+| Name         | Level |
+| Strength     |    50 |
+| Size         |    45 |
+| Dex          |    75 |
+| Appearance   |    70 |
+| Constitution |    45 |
+| Intelligence |    65 |
+| Education    |    60 |
+| Power        |    80 |
+| Luck         |    70 |
+| Move         |    9  |
+
+
+* Background
+
+* Skills 
+Credit rating 50
+Disguise 60
+Firearms 60 **
+Listen 50
+Persuade 60
+Fast Talk 50
+Sleight of Hand 50
+Spot hidden 55
+Stealth 70
+
+
+* Wealth, assets and equipment
+Phantom 1
+Extra Handcuff Key
+Dictaphone
+Wire Recorder
+Gold Pocket Watch
+Straight Razor
+Portable Radio Receiver
+Pocket Microscope
+110x Desk Microscope
+Crowbar
+
+* Players
+Naomi hammermeister
+Ascher Myrrh
+Charlie Orderly 
+* Notes
+3 items
+
+Jacob Smith (south runs a church TEMPLE OF HOPE for high rollers)
+Sticky jack (place in lower southside) 
+Msrge hockler
+greasy spoon (campus area) ilkemp dirty raincoat & dirty hair porkpie hat perma suprised
+uni lib scroll:
+ ancient greek 
+ ancient & greek 
+ last tuesday night 
+ snuck in
+ not on the List
+prof house translation of the scroll
+museum knife medicine man miscatonic river communing with spirits
+
+sycamores lower sought(sticky jack)
+
+janet front desk
+
+Bonegrader -> cunt
+
+anthony flinder (stalker)
+
+come forth sinners and embrace hope
+
+no symbology of a religion we know
+
+amelia research assistant
+ prof stanley language (stolen notes) 225 west pickman
+ prof roach (arsehole)
+
+prof armatedge head librarian doctor of letters
+
+pastor (jacob smith)
+    greased back hair
+    piercing blue eye
+    thin mustache
+    clipped beard 
+    white suit 
+    purigying flame
+    aiya aiya aiya ftaghan aiya aiya aiya azatoth 
+* Eldritch Gear

@@ -1,0 +1,45 @@
+#+TITLE: Call Character: John <<Johnny>> Marconi
+Sanity: 70
+age: 34
+HP: 12
+MP: 
+Luck:  45
+Money: 
+* Stats
+| Name         | Level |
+| Strength     |    45 |
+| Size         |    65 |
+| Dex          |    65 |
+| Appearance   |    50 |
+| Constitution |    55 |
+| Intelligence |    65 |
+| Education    |    65 |
+| Power        |    70 |
+| Luck         |    45 |
+| Move         |     7 |
+
+
+* Background
+    Crime Noir Detective
+
+* Skills 260 + 130
+    Fast Talk 5
+    Firearms 15
+    Law 5
+    Library Use 20
+    Psychology 10
+    Stealth 20
+    Track 10
+    lockpick 1
+
+
+
+* Wealth, assets and equipment
+    Thompson
+
+
+* Players
+* notes
+
+* Eldritch Gear
+* Insanities
