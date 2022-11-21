@@ -1,0 +1,26 @@
+PTS 90
+
+
+* stats
+    ST:  11
+    IQ:  12
+    DEX: 10
+    HT:  11
+
+* skill 80
+    Bicycling 1
+    Brawling 1
+    Bow 4
+    Carpentry 2
+    Computer programming 4
+    Cooking 2
+    fishing 2
+    Gardening 2
+    Literature 1
+    Lockpicking 1
+    mathematics 2
+    Research 3
+    Speed reading 1
+    Tactics 1
+
+

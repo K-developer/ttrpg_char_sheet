@@ -1,10 +1,10 @@
 #+TITLE: Call Character: John <<Johnny>> Marconi
-Sanity: 70
+Sanity: 68
 age: 34
-HP: 12
-MP: 
-Luck:  45
-Money: 
+HP: 6
+MP:
+Luck:  12
+Money:
 * Stats
 | Name         | Level |
 | Strength     |    45 |
@@ -22,24 +22,123 @@ Money:
 * Background
     Crime Noir Detective
 
-* Skills 260 + 130
-    Fast Talk 5
-    Firearms 15
-    Law 5
-    Library Use 20
-    Psychology 10
-    Stealth 20
-    Track 10
-    lockpick 1
+* Skills
+    Persuade 80 **
+    Firearms 70
+    Library Use 60
+    Psychology 68 **
+    Stealth 70 *
+    Spot hidden 60 **
+    LockSmith 63
+    Listen 50 *
+    Credit score 40
+    Drive auto 50
+    mythos 8
+
 
 
 
 * Wealth, assets and equipment
     Thompson
-
+    Chrysler Model F-58
+    The Clyde 6 room house
 
 * Players
 * notes
+
+** npcs
+    Sarah keetling
+     - june 5th
+     - average wealth
+     - sahw
+     - Andrew (Brother younger)
+     - icelandic wool
+     - canned european food
+     - few thousand each
+     - business man
+     - bohemians
+     - he was falling with artists
+     - falling in with a bad crowd
+     - prone to anger (uncontrolled, explosive)
+     - writing cheques
+     - paintings?
+     - ghastly art
+     - unknown artist
+     - poor subjects
+     - Garsetti italian?
+        muskrat rapids
+        pensylvania
+     - andrew left 2 weeks ago and never returned
+     - detective sargent patric devlin
+     - detective flannigan (smokes)
+     - Mr dawkin
+     - zeke crater
+     - regular sandy hair
+     - Madeline du morte
+        Lover?
+     - boston museum of fine art (andrews well known)
+     - 3 large expensive framed paintings
+     - J.G (josephine garsetti) pre-raphilite plates
+        - leader of a cult
+        - Drug addict?
+        - Sylvan night (cult name?)
+            Dagger wound to the throat
+            post-mortem bites
+    - miss andrea pentargon / myra smith
+     - paintings:
+        - dweller in the void
+            large
+            thin
+            malformed
+            humanoid
+            mummified
+            decayed
+            colourful background
+            made of twisted and tortured faces
+        - sylvan night
+            beautiful blonde woman
+            in idyllic forest
+            dark swirling mass
+        - watching
+            large mansion (zekes mansion)
+            we have the address
+            coast
+            red lights in windows and cracks
+        sheriff ansin varley
+        janette
+
+
+
+        Strawberry blonde
+        blue eyes
+        beautiful
+        19
+        girl
+        polish
+        killed by serial killer
+        Franziska Schamzkovska
+        red mill caberet opens 7 fills up at 9
+        max heart-tongue
+
+        petite
+        strawberry blonde
+        almond eyes
+        long sculpted nose
+        many scars
+        full lips
+
+        100 killers
+        "now i have every single turn" prisoner said (main murderer gross-man)
+        Sasnovski
+
+        8889 (cheaper than going rate because of canibal murderer)
+
+        helenitsig
+        Landsberger Chausee
+
+        frau paginkoff
+
+
 
 * Eldritch Gear
 * Insanities

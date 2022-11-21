@@ -3,8 +3,8 @@
 ============================================
 HP: 8/9
 Will: 4/5
-Blood Potency: 2
-exp: 10
+Blood Potency: 3
+exp: 15
 
 * Details
 Clan: Brujah
@@ -34,41 +34,44 @@ Firearms 2
 Melee (+1 Swords) 4
 Athletics 3
 Subterfuge 3
-Ettuette 1
+Etiquette 1
 Occult 2 (+1 grave rituals)
 Technology 3
 Intimidation 2
 Brawl 2
 
 * Disciplines
-** potence 4
-*** 1
-soaring leap
-lethal body
-*** 2
-prowess
-*** 3
-uncanny grip
-** Celerity 5
-*** 1
-  cats grace
-  rapid reflex's
-*** 2
-  blink
-*** 3
-  Traversal
-*** 5
-  Lightning strike
-** Fortitude 1
-*** 1
-Unswayable Mind
-** Presence 3
-*** 1
-awe
-*** 2
-Lingering Kiss
-*** 3
-Entrancement
+    ** potence 5
+        *** 1
+            soaring leap
+            lethal body
+        *** 2
+            prowess
+        *** 3
+            uncanny grip
+        *** 5
+            Fist of Caine
+    ** Celerity 5
+        *** 1
+          cats grace
+          rapid reflex's
+        *** 2
+            fleetness
+        *** 3
+          blink
+          Traversal
+        *** 5
+          Lightning strike
+    ** Fortitude 1
+        *** 1
+        Unswayable Mind
+    ** Presence 3
+        *** 1
+        awe
+        *** 2
+        Lingering Kiss
+        *** 3
+        Entrancement
 
 * Advantages
 stunning
@@ -87,24 +90,24 @@ Jacob (nomad)
  - 12 gauge +3
  - 9mm +2
 * notes
-azaezal
-jesamine tremont
-Queen anne Ventrue
-Regina blake  (elisium) Toreador
-valerius (Sire to queen and current senechal) Ventrue
-Scarlet Churchill
-kythas smith (vamp hunter nearly on par with dane)
-Montie coven (diablerised mithras)
-Nefer meri-isis ventrue childe of ventrue
-Cretheus ventrue childe of mithras
-Can eat and drink (high humanity)
-nefer (vamp 3rd eye)
-Emmy
-Antideluvian Set
-richard d'ward
-methuselah
-    horus
-cretheus and nefer-meri-isis
+    azaezal
+    jesamine tremont
+    Queen anne Ventrue
+    Regina blake  (elisium) Toreador
+    valerius (Sire to queen and current senechal) Ventrue
+    Scarlet Churchill
+    kythas smith (vamp hunter nearly on par with dane)
+    Montie coven (diablerised mithras)
+    Nefer meri-isis ventrue childe of ventrue
+    Cretheus ventrue childe of mithras
+    Can eat and drink (high humanity)
+    nefer (vamp 3rd eye)
+    Emmy
+    Antideluvian Set
+    richard d'ward
+    methuselah
+        horus
+    cretheus and nefer-meri-isis
 *** Mithras Key items
     ring of mithras (from goddess to god, cursed and blessed forever) sri sansa
     phrygian cap gwenllian arwyn patyr
@@ -139,6 +142,22 @@ NYE
 Paris
 Macao
 atlanta
+
+annabelle
+porche
+
+ballard
+
+1 destroy spirit
+2 ephemeral shield
+2 celestial fire
+2 spiritual stealth
+1 reaching
+2 locate object
+2 regeneration
+2 find purified
+
+
 
 
 xavier connection vitorio
