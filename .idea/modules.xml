@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/rust_lambda/.idea/rust_lambda.iml" filepath="$USER_HOME$/rust_lambda/.idea/rust_lambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ttrpg_char_sheet.iml" filepath="$PROJECT_DIR$/.idea/ttrpg_char_sheet.iml" />
     </modules>
   </component>

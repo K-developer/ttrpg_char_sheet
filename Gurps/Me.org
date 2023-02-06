@@ -7,6 +7,9 @@ PTS 90
     DEX: 10
     HT:  11
 
+    HP 6/11
+    FP 11/11
+
 * skill 80
     Bicycling 1
     Brawling 1
@@ -17,10 +20,13 @@ PTS 90
     fishing 2
     Gardening 2
     Literature 1
-    Lockpicking 1
+    Lock-picking 1
     mathematics 2
     Research 3
     Speed reading 1
     Tactics 1
+
+* Disadvantages
+    Cannot Harm Innocents
 
 

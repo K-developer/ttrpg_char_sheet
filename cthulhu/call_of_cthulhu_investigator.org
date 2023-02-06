@@ -1,9 +1,11 @@
 #+TITLE: Call Character: John <<Johnny>> Marconi
-Sanity: 68
-age: 34
-HP: 6
-MP:
-Luck:  12
+Sanity: 84
+age: 35
+HP: 12
+MP: 14/14
+Mana stone 1: 12
+Luck:  37
+Flesh ward: 24
 Money:
 * Stats
 | Name         | Level |
@@ -23,17 +25,162 @@ Money:
     Crime Noir Detective
 
 * Skills
-    Persuade 80 **
-    Firearms 70
-    Library Use 60
-    Psychology 68 **
+    Persuade 89
+    Firearms (SMG) 70
+    Library Use 70
+    Psychology 71 *
     Stealth 70 *
-    Spot hidden 60 **
+    Spot hidden 67 **
     LockSmith 63
-    Listen 50 *
-    Credit score 40
+    Listen 50
+    Credit score 50
     Drive auto 50
-    mythos 8
+    mythos 13
+    occult 16
+
+
+* Spells
+    Fist of Yog-Sothoth
+    • Cost: variable magic points; 1D6 Sanity points
+    • Casting time: instantaneous
+    Causes a massive, invisible force to hit a single target. The caster must be able to see the target.
+    Each magic point invested yields 2D10 STR of force. For every 30 feet of distance that the caster stands from
+    the target (after the first thirty feet), the caster must spend an additional magic point.
+    When the target is struck (if a living thing),
+    an opposed roll must be made using the spell’s STR versus the target’s CON.
+    If the roll is successful, the target is knocked unconscious.
+    Whether or not the target is left unconscious,
+    the target is always pushed away from the caster for a distance in feet equal to the STR
+    of the blow minus the target’s SIZ. The spell can be used against inanimate objects, such as doors or walls.
+    Results may be obvious, but sometimes
+    Keepers will have to determine these cases based upon the STR of the object.
+    For example: the caster spends 5 magic points to hit an investigator 50 feet away.
+    1 magic point is spent on the range. The other 4 generate a STR of 8D10 that are rolled for a result of 57.
+    The investigator fails a Hard CON roll (since the spells STR is over 50) and so they are knocked unconscious.
+    The investigator has a SIZ of 45 and is bowled back 12 feet by the impact.
+    Alternative names: Channel the Strength of the Opener of the Way, Smite Down Thine Enemy,
+    The Hideous Blast of the Foul One
+
+    Blessing of Bast
+    • Cost: 4 magic points
+    • Casting time: instantaneous
+    This rare spell is thought to have been lost to the passage of time,
+    as it was known only to the High Priestesses of Bast
+    and has rarely seen use since the days of dynastic Egypt.
+    The spell heals 1D6 hit points and restores 1D6 Sanity points.
+    The recipient of the spell must speak a prayer to Bast (outlined in the spell).
+    The would-be recipient must make a successful POW roll to convince the goddess of their worthiness,
+    and they should never have mistreated a cat.
+    Failing the POW roll incurs the displeasure of the goddess and costs the caster 1 hit point damage,
+    manifesting as claw marks on the face
+    (a worse fate befalls those who have mistreated a cat, at the Keeper’s discretion).
+    Alternative names: none known.
+
+    Flesh Ward [Deep]
+    • Cost: variable magic points; 1D4 Sanity points
+    • Casting time: 5 rounds
+    Grants protection against physical attack.
+    Each magic point spent provides the caster (or the chosen target) 1D6 points of armor against non-magical attacks.
+    This protection wears off as it blocks damage; for example,
+    if a character had 12 points of Flesh Ward and was hit for 8 points of damage,
+    the Flesh Ward would be reduced to 4 points, although no damage would be taken.
+    The spell lasts 24 hours or until the protection is depleted.
+    Once cast, the spell may not be reinforced with further magic points,
+    nor recast until the old spell’s protection has been used up.
+    Alternative names: Protect Thee from Mighty Blows, Armor of the Will, Blood Shield.
+
+    Vanish (Gate Boxes variant)
+     • Cost: 5 magic points; 1 Sanity point; (10 POW one time cost)
+    • Casting time: instantaneous
+    The caster vanishes in a puff of smoke,
+    to reappear in a prepared location. The location is defined by creating a single Gate Box (page 120).
+    Once the box is prepared, the caster sacrifices 10 POW (a one-time cost) and places elements of their body inside
+    the box (such as blood, teeth, or nails); if these elements are removed and the box purified,
+    the spell will not work, requiring the sorcerer to prepare the box one again (and repay the cost).
+    When a certain phrase or gesture is performed, the caster is immediately transported to inside the Gate box,
+    wherever it may be. The location of the Gate box might be as far as several hundred miles distant.
+    Presumably the box could be moved without the sorcerer’s knowledge─a surprise on their arrival!
+    Each time the caster travels in this manner it costs 5 magic points and 1 Sanity point.
+    Alternative names: The Wizard ’s Exit, Return Thee to Safety, Bodily Evaporation.
+
+    Voorish Sign
+    • Cost: 1 magic point; 1 Sanity point
+    • Casting time: 1 round
+    An ancient and powerful hand gesture used by wizards that benefits the casting of other spells.
+    It may lessen the cost, reduce the casting time, or increase the effect a little,
+    depending on the spell in question (the precise benefit is determined by the Keeper).
+    The Voorish Sign must be cast in the round preceding the spell it is enhancing.
+    The Voorish Sign is also rumored to temporarily ward against Mythos monsters—such creatures are wary of the sign
+    and may hold off an attack until the wizard’s intentions are known.
+    Alternative names: Sign of Power, Cunninge Pass.
+
+    Create Charm (Folk) 0
+    • Cost: 10 magic points; 5 POW
+    • Casting time: 7 days
+    Enchants a small object to protect against evil forces.
+    Materials are gathered—in Japan these traditionally
+    consist of a small drawstring satchel (mayoke), a plaque of
+    wood (ema), and a small sheet of paper on which a prayer
+    is written (gofu). The spellcaster then writes the desired
+    effect upon the charm—usually a desire for good fortune.
+    In game terms, a charm temporarily grants one of the
+    following (timescale suggestions given in parentheses):
+    • A bonus die to the owner’s Luck rolls (one use, 1D4
+    hours, 24 hours).
+    • A bonus die to Dodge rolls, (one use, 1D4 hours).
+    • A reduction in damage received; acting as if armor 5
+    (1D4 hours, 24 hours).
+    Other boons are possible at the Keeper’s discretion.
+    Forms of this spell exist in many cultures.
+
+    Shrivelling 6
+    • Cost: variable magic points; variable Sanity points
+    • Casting time: instantaneous
+    A powerful offensive spell causing physical injury to a target.
+    The caster invests as many magic points as desired and that
+    number halved in Sanity points. For the spell to take effect the
+    caster must succeed in an opposed POW roll with the target.
+    If successful, the target is subjected to a sudden and terrifying
+    blast of energy, causing flesh to blacken and wither. The target
+    loses 1 hit point per magic point invested in the spell.
+    Deeper magic: calling up the powerful energies of the
+    Mythos is one thing; shaping them through understanding
+    and comprehension is another. Some casters are able to
+    inflict this spell without the need for a POW roll. In
+    addition, the caster may elect to induce further mental
+    terror: while reeling from the energy blast, the target
+    believes that he or she is being assaulted by horrific Mythos
+    entities, provoking a Sanity roll for 1/1D6 Sanity loss.
+    
+    Transformation n
+    • Cost: 13 magic points; 1D8 Sanity points
+    • Casting time: 1 round
+    Enables the caster to transform into a semblance of one
+    of the hideous avatars of Vorvados. By invoking the
+    secret names of the Crawling Chaos while drawing blood
+    from five cuts on their body, the caster completes the spell.
+    Immediately, their skin blackens, limbs twist, and their
+    body swells up to four times its original size. The head slips
+    open, flowing into a slack maw full of needle-sharp teeth.
+    The transformation is unstable, lasting for 1D10+1 rounds
+    and then the caster’s body reverts to its natural form.
+    The caster’s combat capabilities, movement, and other
+    applicable skills while transformed are akin to the avatar of
+    Vorvados they are embodying. The Keeper should refer
+    to the original avatar’s characteristics, which in the main
+    can be used “as is” or reduced as deemed appropriate by
+    the Keeper. Note that the spells and spell-like abilities of
+    the original avatar do not become possessed by the caster,
+    and certain characteristics, like hit points, remain at the
+    level of the caster’s original body.
+    Deeper magic: variants of this spell concern themselves
+    solely with a particular avatar.
+    Indiscriminate casting of this spell is liable to draw
+    the attention of Vorvados—an entity unlikely to take
+    kindly to those imitating its many forms. The Crawling
+    Chaos has many curses and unwholesome bargains to
+    choose from, should someone misuse its many names.
+
 
 
 
@@ -42,101 +189,140 @@ Money:
     Thompson
     Chrysler Model F-58
     The Clyde 6 room house
+    Colt .45 Automatic M1911 1D10+2, malfunction 100.
 
 * Players
 * notes
 
 ** npcs
-    Sarah keetling
-     - june 5th
-     - average wealth
-     - sahw
-     - Andrew (Brother younger)
-     - icelandic wool
-     - canned european food
-     - few thousand each
-     - business man
-     - bohemians
-     - he was falling with artists
-     - falling in with a bad crowd
-     - prone to anger (uncontrolled, explosive)
-     - writing cheques
-     - paintings?
-     - ghastly art
-     - unknown artist
-     - poor subjects
-     - Garsetti italian?
-        muskrat rapids
-        pensylvania
-     - andrew left 2 weeks ago and never returned
-     - detective sargent patric devlin
-     - detective flannigan (smokes)
-     - Mr dawkin
-     - zeke crater
-     - regular sandy hair
-     - Madeline du morte
-        Lover?
-     - boston museum of fine art (andrews well known)
-     - 3 large expensive framed paintings
-     - J.G (josephine garsetti) pre-raphilite plates
-        - leader of a cult
-        - Drug addict?
-        - Sylvan night (cult name?)
-            Dagger wound to the throat
-            post-mortem bites
-    - miss andrea pentargon / myra smith
-     - paintings:
-        - dweller in the void
-            large
-            thin
-            malformed
-            humanoid
-            mummified
-            decayed
-            colourful background
-            made of twisted and tortured faces
-        - sylvan night
-            beautiful blonde woman
-            in idyllic forest
-            dark swirling mass
-        - watching
-            large mansion (zekes mansion)
-            we have the address
-            coast
-            red lights in windows and cracks
-        sheriff ansin varley
-        janette
+
+    toria angelos
+    singer
+    good singer
+    soprano
+    opera
+    In hospital
+    Frank attacked her
 
 
 
-        Strawberry blonde
-        blue eyes
-        beautiful
-        19
-        girl
-        polish
-        killed by serial killer
-        Franziska Schamzkovska
-        red mill caberet opens 7 fills up at 9
-        max heart-tongue
+    frank charlton
+    Philosophy medieval metaphyics
+    suffocation
 
-        petite
-        strawberry blonde
-        almond eyes
-        long sculpted nose
-        many scars
-        full lips
+    claud owen
 
-        100 killers
-        "now i have every single turn" prisoner said (main murderer gross-man)
-        Sasnovski
 
-        8889 (cheaper than going rate because of canibal murderer)
 
-        helenitsig
-        Landsberger Chausee
 
-        frau paginkoff
+    Quachil_Uttaus
+
+
+
+
+
+
+
+
+
+
+
+    Nobru ka
+    gold box inside (ancient movian)
+    protection rune
+
+
+    ** chicago
+        Sarah keetling
+         - june 5th
+         - average wealth
+         - sahw
+         - Andrew (Brother younger)
+         - icelandic wool
+         - canned european food
+         - few thousand each
+         - business man
+         - bohemians
+         - he was falling with artists
+         - falling in with a bad crowd
+         - prone to anger (uncontrolled, explosive)
+         - writing cheques
+         - paintings?
+         - ghastly art
+         - unknown artist
+         - poor subjects
+         - Garsetti italian?
+            muskrat rapids
+            pensylvania
+         - andrew left 2 weeks ago and never returned
+         - detective sargent patric devlin
+         - detective flannigan (smokes)
+         - Mr dawkin
+         - zeke crater
+         - regular sandy hair
+         - Madeline du morte
+            Lover?
+         - boston museum of fine art (andrews well known)
+         - 3 large expensive framed paintings
+         - J.G (josephine garsetti) pre-raphilite plates
+            - leader of a cult
+            - Drug addict?
+            - Sylvan night (cult name?)
+                Dagger wound to the throat
+                post-mortem bites
+        - miss andrea pentargon / myra smith
+         - paintings:
+            - dweller in the void
+                large
+                thin
+                malformed
+                humanoid
+                mummified
+                decayed
+                colourful background
+                made of twisted and tortured faces
+            - sylvan night
+                beautiful blonde woman
+                in idyllic forest
+                dark swirling mass
+            - watching
+                large mansion (zekes mansion)
+                we have the address
+                coast
+                red lights in windows and cracks
+            sheriff ansin varley
+            janette
+
+
+
+            Strawberry blonde
+            blue eyes
+            beautiful
+            19
+            girl
+            polish
+            killed by serial killer
+            Franziska Schamzkovska
+            red mill caberet opens 7 fills up at 9
+            max heart-tongue
+
+            petite
+            strawberry blonde
+            almond eyes
+            long sculpted nose
+            many scars
+            full lips
+
+            100 killers
+            "now i have every single turn" prisoner said (main murderer gross-man)
+            Sasnovski
+
+            8889 (cheaper than going rate because of canibal murderer)
+
+            helenitsig
+            Landsberger Chausee
+
+            frau paginkoff
 
 
 
